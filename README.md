@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexurUR22c
 - 👀 I’m interested in cyberSecurity
-- 🌱 I’m currently learning Python/Pentest
+- 🌱 I’m currently learning Python
 
 
 <!---
